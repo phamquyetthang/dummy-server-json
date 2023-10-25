@@ -34,6 +34,8 @@ DELETE  /blogs/:id
 ví dụ: DELETE   /blogs/1
 ```
 
+`Tương tự với /users`
+
 ### `III.Về Tác Giả`
 
 `Tác giả: Hỏi Dân IT`
