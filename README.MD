@@ -35,9 +35,10 @@ ví dụ: DELETE   /blogs/1
 ```
 
 ### `III.Về Tác Giả`
-Đây là backend cho series Next.JS Cơ bản.  [Xem full tại đây](https://www.youtube.com/playlist?list=PLncHg6Kn2JT6zw4JiFOE1z90ghnyrFl5B)
 
 `Tác giả: Hỏi Dân IT`
+
+Website: https://hoidanit.com.vn
 
 Facebook: https://facebook.com/askitwitheric
 
